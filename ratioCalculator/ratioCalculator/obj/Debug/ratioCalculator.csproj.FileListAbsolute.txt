@@ -1,0 +1,7 @@
+C:\Users\1321200\Desktop\ratioCalculator\ratioCalculator\obj\Debug\ratioCalculator.csprojAssemblyReference.cache
+C:\Users\1321200\Desktop\ratioCalculator\ratioCalculator\obj\Debug\ratioCalculator.csproj.CoreCompileInputs.cache
+C:\Users\1321200\Desktop\ratioCalculator\ratioCalculator\bin\Debug\ratioCalculator.exe.config
+C:\Users\1321200\Desktop\ratioCalculator\ratioCalculator\bin\Debug\ratioCalculator.exe
+C:\Users\1321200\Desktop\ratioCalculator\ratioCalculator\bin\Debug\ratioCalculator.pdb
+C:\Users\1321200\Desktop\ratioCalculator\ratioCalculator\obj\Debug\ratioCalculator.exe
+C:\Users\1321200\Desktop\ratioCalculator\ratioCalculator\obj\Debug\ratioCalculator.pdb
